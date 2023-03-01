@@ -1,0 +1,15 @@
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\bin\Debug\net6.0\1.Thread_1.exe
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\bin\Debug\net6.0\1.Thread_1.deps.json
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\bin\Debug\net6.0\1.Thread_1.runtimeconfig.json
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\bin\Debug\net6.0\1.Thread_1.dll
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\bin\Debug\net6.0\1.Thread_1.pdb
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.csproj.AssemblyReference.cache
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.GeneratedMSBuildEditorConfig.editorconfig
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.AssemblyInfoInputs.cache
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.AssemblyInfo.cs
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.csproj.CoreCompileInputs.cache
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.dll
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\refint\1.Thread_1.dll
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.pdb
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\1.Thread_1.genruntimeconfig.cache
+A:\repoA\C#\POO\1.Thread_1\1.Thread_1\obj\Debug\net6.0\ref\1.Thread_1.dll
