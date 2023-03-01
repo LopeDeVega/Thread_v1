@@ -31,5 +31,6 @@ void dislplayMessage ()
     Console.WriteLine("Hello, World! Thread_2");
     Thread.Sleep(1000);
     Console.WriteLine("Hello, World! Thread_2");
+    Console.WriteLine("Hello, World! Thread_2");
 
 }
